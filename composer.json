@@ -1,6 +1,6 @@
 {
     "name": "mindpowered/shoppingcart",
-    "version": "0.0.13",
+    "version": "0.0.14",
     "description": "Shopping Cart for Online Shopping",
     "license": "MIT",
     "autoload": {
